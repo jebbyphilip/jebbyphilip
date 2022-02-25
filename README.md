@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jebbyphilip
-- 👀 I’m interested in Design Patterns, Data Patterns
-- 🌱 I’m currently learning Angular, ASP.NET, API
+- 👀 I’m interested in Design Patterns, Data Patterns, Database Design
+- Enterprise Architecture
 
 <!---
 jebbyphilip/jebbyphilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
